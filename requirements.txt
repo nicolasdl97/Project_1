@@ -1,0 +1,16 @@
+# Requisitos base para análisis de datos
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+openpyxl
+plotly
+ipywidgets
+dotenv
+requests
+
+# Para notebooks en VS Code
+jupyterlab
+ipykernel
