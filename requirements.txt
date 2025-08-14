@@ -10,6 +10,7 @@ plotly
 ipywidgets
 dotenv
 requests
+geopandas
 
 # Para notebooks en VS Code
 jupyterlab
